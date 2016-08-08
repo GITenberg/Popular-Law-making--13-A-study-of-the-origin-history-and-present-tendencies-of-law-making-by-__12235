@@ -1,0 +1,31 @@
+_repo: Popular-Law-making--13-A-study-of-the-origin-history-and-present-tendencies-of-law-making-by-__12235
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Stimson, Frederic Jesup
+    aliases:
+    - Stimson, Frederic J. (Frederic Jesup)
+    - J. S. of Dale
+    - Stimson, F. J. (Frederic Jesup)
+    birthdate: 1855
+    deathdate: 1943
+    gutenberg_agent_id: '8370'
+    url: http://www.gutenberg.org/2009/agents/8370
+    wikipedia: http://en.wikipedia.org/wiki/Frederic_Jesup_Stimson
+description: ''
+gutenberg_bookshelf: British Law
+gutenberg_issued: '2004-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12235'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Legislation -- United States'
+- !lcc 'KF'
+- GITenberg
+title: "Popular Law-making\r\nA study of the origin, history, and present tendencies\
+  \ of law-making by statute"
+url: http://www.gutenberg.org/ebooks/12235
