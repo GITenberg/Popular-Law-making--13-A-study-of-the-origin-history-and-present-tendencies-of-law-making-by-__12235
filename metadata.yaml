@@ -1,5 +1,8 @@
 _repo: Popular-Law-making--13-A-study-of-the-origin-history-and-present-tendencies-of-law-making-by-__12235
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Stimson, Frederic Jesup
@@ -13,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8370
     wikipedia: http://en.wikipedia.org/wiki/Frederic_Jesup_Stimson
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/12235#Popular-Law-making--13-A-study-of-the-origin-history-and-present-tendencies-of-law-making-by-_
 gutenberg_bookshelf: British Law
 gutenberg_issued: '2004-05-01'
 gutenberg_type: Text
